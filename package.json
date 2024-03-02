@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Web3Auth/Web3Auth.git"
+    "url": "git+https://github.com/ahmedueig/web3auth-web.git"
   },
   "keywords": [
     "web3",
@@ -79,9 +79,9 @@
   "author": "Torus Labs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Web3Auth/Web3Auth/issues"
+    "url": "https://github.com/ahmedueig/web3auth-web/issues"
   },
-  "homepage": "https://github.com/Web3Auth/Web3Auth#readme",
+  "homepage": "https://github.com/ahmedueig/web3auth-web#readme",
   "engines": {
     "node": ">=18.x",
     "npm": ">=9.x"
